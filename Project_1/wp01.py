@@ -3,7 +3,11 @@
 # Basic.txt : Basic cupcakes, cost $5.
 # Deluxe.txt : Deluxe cupcakes, cost $6.
 # Total.txt : Total money made for the day.
-# Date : The bottom-most row is always 'Today', the row above that is 'Yesterday', and so on.
+
+# Process:
+# List of Date - The bottom-most row is always 'Today', the row above that is 'Yesterday', and so on.
+# Create and set the Date column as column[0]
+# Totals for Yearly, Monthly and Weekly Revenue
 
 # Output:
 # Yearly Revenue Totals
@@ -34,6 +38,8 @@ cupcake_dataframe["Date:"] = pd.date_range(start=start_day, periods=range_day)
 date_column = cupcake_dataframe.columns.tolist()
 date_column = date_column[-1:] + date_column[:-1]
 cupcake_dataframe = cupcake_dataframe[date_column]
+
+# Need fix
 
 # Yearly Revenue Totals
 yearly = pd.DataFrame.groupby(by="2019").sum()
