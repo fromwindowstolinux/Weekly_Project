@@ -32,6 +32,8 @@ If you want to get fancy, here's how you might take it even further:
 2. Generate a graph of the data, Matilda loves charts
 3. Get creative with the input. Maybe you can think of something she'll actually use.
 
+### MAKING PLAN
+
 Now, how are you going to attack this project? Everyone has a graveyard of unfinished projects, how are you going to make this one different?<br/>
 
 When you're working at a company, you've got this built in mechanism to force you to work on whatever you should be working on. For your own stuff, there's none of that. Why work on your project when you could be relaxing? Or scrolling through HackerNews, or whatever your preferred method of procrastination is.<br/>
@@ -44,6 +46,8 @@ Not that procrastination planning where you think about stuff and dream about ho
 
 Let's dive in.
 
+### WHAT
+
 The first step is to decide **what**. Remember how I said we weren't going to dream about this finished product? I lied. Take a second and think about your perfect vision of this project.
 
 Now cut it in half. Take about half of the things in that vision, and just decide now not to do them.
@@ -52,6 +56,8 @@ The reality is that in software, things always take longer than we anticipate. W
 
 This also includes spending time on stuff you don't know. Research is an important part of development, and it's OK to spend time on it.
 
+### WHEN
+
 The second step is to decide **when**. Think about the week ahead. If you use a calendar or a planner, get that in front of you.
 
 When is weekly project time? I sometimes catch myself thinking that something will happen "sometime this week". I've looked around, and I haven't found a calendar that has a box with that label.
@@ -59,6 +65,8 @@ When is weekly project time? I sometimes catch myself thinking that something wi
 Take a minute and schedule some specific times to work on this project. It can just be a few minutes here and there, you don't have to be staying up late every night to get this done if you don't want to. A half hour 3 times a week is way more than none at all.
 
 If you aren't able to schedule as much time as you want, that's OK! Block out as much time as you can, and then go back to step one and cut out some more project.
+
+### COMMIT
 
 The third step is to commit.
 
